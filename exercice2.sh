@@ -1,6 +1,6 @@
 #!/bin/bash
 n=$(uname -m)
-if [ $n = "i686" ]
+if [ $n = "i686" 
 then
 echo "vous avez un systeme d'exploitation 32bits"
 elif [ $n = "x86_64" ]
