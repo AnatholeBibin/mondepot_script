@@ -9,5 +9,5 @@ read fichier
 touch $fichier
 ls -l $fichier
 else
-echo "Je ne  triche pas au td"
+echo "Je ne  triche jamais au td"
 fi
