@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "tapez un nombre"
+echo "tapez un nb"
 read nb
 if [ $nb -le  99 ]; then
 ncal 2010
